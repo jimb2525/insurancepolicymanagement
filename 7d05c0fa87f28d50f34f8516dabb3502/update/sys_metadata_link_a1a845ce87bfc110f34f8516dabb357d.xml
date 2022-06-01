@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>92388e3a8732cd50f34f8516dabb35c2</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_insurance_0_claims">
+    <x_snc_insurance_0_claims action="INSERT_OR_UPDATE">
+        <attorney>Blogtag</attorney>
+        <attorney_email>egerbl1r@cornell.edu</attorney_email>
+        <citation_number>2864456419</citation_number>
+        <claim_id>64</claim_id>
+        <claim_number>8267709487</claim_number>
+        <claimant_email>egerbl1r@engadget.com</claimant_email>
+        <claimant_first_name>Elli</claimant_first_name>
+        <claimant_last_name>Gerbl</claimant_last_name>
+        <description>Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla.</description>
+        <number>CLA0001064</number>
+        <number_2>CLA0001071</number_2>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-15 11:34:12</sys_created_on>
+        <sys_id>92388e3a8732cd50f34f8516dabb35c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-15 11:34:12</sys_updated_on>
+    </x_snc_insurance_0_claims>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 16:03:47</sys_created_on>
+        <sys_id>a1a845ce87bfc110f34f8516dabb357d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CLA0001064</sys_name>
+        <sys_package display_value="Insurance Policy Management" source="x_snc_insurance_0">7d05c0fa87f28d50f34f8516dabb3502</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Insurance Policy Management">7d05c0fa87f28d50f34f8516dabb3502</sys_scope>
+        <sys_update_name>sys_metadata_link_a1a845ce87bfc110f34f8516dabb357d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 16:03:47</sys_updated_on>
+        <tablename>x_snc_insurance_0_claims</tablename>
+    </sys_metadata_link>
+</record_update>

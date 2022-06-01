@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>1e388e3a8732cd50f34f8516dabb35c7</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_insurance_0_claims">
+    <x_snc_insurance_0_claims action="INSERT_OR_UPDATE">
+        <attorney>Brainsphere</attorney>
+        <attorney_email>bgreedyw@zdnet.com</attorney_email>
+        <citation_number>3454912415</citation_number>
+        <claim_id>33</claim_id>
+        <claim_number>9625158219</claim_number>
+        <claimant_email>bgreedyw@cbc.ca</claimant_email>
+        <claimant_first_name>Blakeley</claimant_first_name>
+        <claimant_last_name>Greedy</claimant_last_name>
+        <description>Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.</description>
+        <number>CLA0001033</number>
+        <number_2>CLA0001089</number_2>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-15 11:34:12</sys_created_on>
+        <sys_id>1e388e3a8732cd50f34f8516dabb35c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-15 11:34:12</sys_updated_on>
+    </x_snc_insurance_0_claims>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 16:03:45</sys_created_on>
+        <sys_id>45a805ce87bfc110f34f8516dabb35c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CLA0001033</sys_name>
+        <sys_package display_value="Insurance Policy Management" source="x_snc_insurance_0">7d05c0fa87f28d50f34f8516dabb3502</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Insurance Policy Management">7d05c0fa87f28d50f34f8516dabb3502</sys_scope>
+        <sys_update_name>sys_metadata_link_45a805ce87bfc110f34f8516dabb35c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 16:03:45</sys_updated_on>
+        <tablename>x_snc_insurance_0_claims</tablename>
+    </sys_metadata_link>
+</record_update>

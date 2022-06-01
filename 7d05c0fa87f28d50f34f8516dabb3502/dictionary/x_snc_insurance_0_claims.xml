@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="Claims" max_length="40" name="x_snc_insurance_0_claims" sizeclass="1000" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Attorney" max_length="40" name="attorney" type="string"/>
+        <element label="Attorney Email" max_length="40" name="attorney_email" type="email"/>
+        <element attributes="edge_encryption_enabled=true" label="Citation Number" max_length="40" name="citation_number" type="string"/>
+        <element label="Claimant Email" max_length="40" name="claimant_email" type="email"/>
+        <element attributes="edge_encryption_enabled=true" label="Claimant First Name" max_length="40" name="claimant_first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Claimant Last Name" max_length="40" name="claimant_last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Claim ID" max_length="40" name="claim_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Claim Number" max_length="40" name="claim_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="1000" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number 2" max_length="40" name="number_2" type="string"/>
+    </element>
+</database>

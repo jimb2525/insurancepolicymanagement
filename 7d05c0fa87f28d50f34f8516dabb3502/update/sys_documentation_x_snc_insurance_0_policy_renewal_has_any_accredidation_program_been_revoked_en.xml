@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="has_any_accredidation_program_been_revoked" label="Has any accredidation program been revoked?" language="en" table="x_snc_insurance_0_policy_renewal">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>has_any_accredidation_program_been_revoked</element>
+            <help/>
+            <hint/>
+            <label>Has any accredidation program been revoked?</label>
+            <language>en</language>
+            <name>x_snc_insurance_0_policy_renewal</name>
+            <plural>Has any accredidation program been revoked?s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-15 11:17:48</sys_created_on>
+            <sys_id>46740ab28732cd50f34f8516dabb3596</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Has any accredidation program been revoked?</sys_name>
+            <sys_package display_value="Insurance Policy Management" source="x_snc_insurance_0">7d05c0fa87f28d50f34f8516dabb3502</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Insurance Policy Management">7d05c0fa87f28d50f34f8516dabb3502</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_insurance_0_policy_renewal_has_any_accredidation_program_been_revoked_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-15 11:17:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

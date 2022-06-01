@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Insurance Policy Management Workspace Config">998908b223368d50f29e9ca70470d399</app_config>
+        <description/>
+        <fields>table,sysId</fields>
+        <icon/>
+        <name>Record</name>
+        <optional_parameters>query,extraParams</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>record</route_type>
+        <screen_type display_value="Record">5d8908b271368d509abf5b0c39685b98</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-15 02:20:39</sys_created_on>
+        <sys_id>998908b23b368d5033d5c9d076759098</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record</sys_name>
+        <sys_package display_value="Insurance Policy Management" source="x_snc_insurance_0">7d05c0fa87f28d50f34f8516dabb3502</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Insurance Policy Management">7d05c0fa87f28d50f34f8516dabb3502</sys_scope>
+        <sys_update_name>sys_ux_app_route_998908b23b368d5033d5c9d076759098</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-15 02:20:39</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=998908b23b368d5033d5c9d076759098"/>
+</record_update>

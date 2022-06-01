@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>cb38027a8732cd50f34f8516dabb352e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_insurance_0_claims">
+    <x_snc_insurance_0_claims action="INSERT_OR_UPDATE">
+        <attorney>Zoombox</attorney>
+        <attorney_email>gbleesc@fc2.com</attorney_email>
+        <citation_number>1439845808</citation_number>
+        <claim_id>13</claim_id>
+        <claim_number>597496889</claim_number>
+        <claimant_email>gbleesc@spiegel.de</claimant_email>
+        <claimant_first_name>Graig</claimant_first_name>
+        <claimant_last_name>Blees</claimant_last_name>
+        <description>Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.</description>
+        <number>CLA0001013</number>
+        <number_2>CLA0001979</number_2>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-15 11:34:15</sys_created_on>
+        <sys_id>cb38027a8732cd50f34f8516dabb352e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-15 11:34:15</sys_updated_on>
+    </x_snc_insurance_0_claims>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 16:03:47</sys_created_on>
+        <sys_id>39a845ce87bfc110f34f8516dabb35a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CLA0001013</sys_name>
+        <sys_package display_value="Insurance Policy Management" source="x_snc_insurance_0">7d05c0fa87f28d50f34f8516dabb3502</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Insurance Policy Management">7d05c0fa87f28d50f34f8516dabb3502</sys_scope>
+        <sys_update_name>sys_metadata_link_39a845ce87bfc110f34f8516dabb35a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 16:03:47</sys_updated_on>
+        <tablename>x_snc_insurance_0_claims</tablename>
+    </sys_metadata_link>
+</record_update>

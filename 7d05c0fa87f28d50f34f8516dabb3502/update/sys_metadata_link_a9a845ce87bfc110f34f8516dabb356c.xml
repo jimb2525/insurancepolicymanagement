@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>6e38ce3a8732cd50f34f8516dabb356c</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_insurance_0_claims">
+    <x_snc_insurance_0_claims action="INSERT_OR_UPDATE">
+        <attorney>Minyx</attorney>
+        <attorney_email>mbrookerm@mtv.com</attorney_email>
+        <citation_number>2318468494</citation_number>
+        <claim_id>23</claim_id>
+        <claim_number>2079284193</claim_number>
+        <claimant_email>mbrookerm@smugmug.com</claimant_email>
+        <claimant_first_name>Mario</claimant_first_name>
+        <claimant_last_name>Brooker</claimant_last_name>
+        <description>Duis ac nibh.</description>
+        <number>CLA0001023</number>
+        <number_2>CLA0001488</number_2>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-15 11:34:13</sys_created_on>
+        <sys_id>6e38ce3a8732cd50f34f8516dabb356c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-15 11:34:13</sys_updated_on>
+    </x_snc_insurance_0_claims>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 16:03:46</sys_created_on>
+        <sys_id>a9a845ce87bfc110f34f8516dabb356c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CLA0001023</sys_name>
+        <sys_package display_value="Insurance Policy Management" source="x_snc_insurance_0">7d05c0fa87f28d50f34f8516dabb3502</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Insurance Policy Management">7d05c0fa87f28d50f34f8516dabb3502</sys_scope>
+        <sys_update_name>sys_metadata_link_a9a845ce87bfc110f34f8516dabb356c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 16:03:46</sys_updated_on>
+        <tablename>x_snc_insurance_0_claims</tablename>
+    </sys_metadata_link>
+</record_update>

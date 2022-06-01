@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>231d4c3a87368d50f34f8516dabb354e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="x_snc_insurance_0_liability_insurance_policy">
+    <x_snc_insurance_0_liability_insurance_policy action="INSERT_OR_UPDATE">
+        <account display_value="Austin General Hospital">f36e583687b68d50f34f8516dabb3509</account>
+        <active>true</active>
+        <additional_consumers/>
+        <additional_users/>
+        <base_currency/>
+        <cancellation_date/>
+        <consumer/>
+        <contact display_value="Bob Smith">7ad0647a87b68d50f34f8516dabb358f</contact>
+        <effective_date>2021-05-01 02:37:33</effective_date>
+        <expiration_date>2022-05-01 02:37:54</expiration_date>
+        <external_id/>
+        <household/>
+        <last_paid_amount>80000</last_paid_amount>
+        <last_payment_date>2022-04-14</last_payment_date>
+        <name>Austin General Liability Policy</name>
+        <number>LIP0001003</number>
+        <parent_sold_product/>
+        <policy_number/>
+        <premium_amount>100000</premium_amount>
+        <premium_due_date>2022-04-30</premium_due_date>
+        <premium_frequency>annual</premium_frequency>
+        <producer display_value="Addie Loring">d10961360ff30010fe85fb8585767e09</producer>
+        <product display_value="Liability Policies">0a550da8878ecd503fa9cbfc0ebb3589</product>
+        <service_offering/>
+        <state>active</state>
+        <status>in_force</status>
+        <sys_class_name>x_snc_insurance_0_liability_insurance_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-15 02:38:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>231d4c3a87368d50f34f8516dabb354e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-15 04:03:43</sys_updated_on>
+    </x_snc_insurance_0_liability_insurance_policy>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 16:04:44</sys_created_on>
+        <sys_id>6fd809ce87bfc110f34f8516dabb35bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Insurance Policy Management" source="x_snc_insurance_0">7d05c0fa87f28d50f34f8516dabb3502</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Insurance Policy Management">7d05c0fa87f28d50f34f8516dabb3502</sys_scope>
+        <sys_update_name>sys_metadata_link_6fd809ce87bfc110f34f8516dabb35bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 16:04:44</sys_updated_on>
+        <tablename>x_snc_insurance_0_liability_insurance_po</tablename>
+    </sys_metadata_link>
+</record_update>

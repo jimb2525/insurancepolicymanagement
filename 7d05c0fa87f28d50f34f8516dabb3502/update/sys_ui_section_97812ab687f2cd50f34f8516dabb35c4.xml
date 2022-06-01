@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="NPI Information" section_id="97812ab687f2cd50f34f8516dabb35c4" sys_domain="global" table="x_snc_insurance_0_policy_renewal" version="3" view="npi">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>organization_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-15 13:24:52</sys_created_on>
+            <sys_id>a7812ab687f2cd50f34f8516dabb35c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NPI Information" display_value="NPI Information" name="x_snc_insurance_0_policy_renewal" sys_domain="global" view="57812ab687f2cd50f34f8516dabb3536">97812ab687f2cd50f34f8516dabb35c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-15 13:24:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-15 13:24:52</sys_created_on>
+            <sys_id>af812ab687f2cd50f34f8516dabb35c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NPI Information" display_value="NPI Information" name="x_snc_insurance_0_policy_renewal" sys_domain="global" view="57812ab687f2cd50f34f8516dabb3536">97812ab687f2cd50f34f8516dabb35c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-15 13:24:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-15 13:24:52</sys_created_on>
+            <sys_id>a3812ab687f2cd50f34f8516dabb35c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NPI Information" display_value="NPI Information" name="x_snc_insurance_0_policy_renewal" sys_domain="global" view="57812ab687f2cd50f34f8516dabb3536">97812ab687f2cd50f34f8516dabb35c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-15 13:24:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zip_code</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-15 13:24:52</sys_created_on>
+            <sys_id>a7812ab687f2cd50f34f8516dabb35c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NPI Information" display_value="NPI Information" name="x_snc_insurance_0_policy_renewal" sys_domain="global" view="57812ab687f2cd50f34f8516dabb3536">97812ab687f2cd50f34f8516dabb35c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-15 13:24:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state_province</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-15 13:24:52</sys_created_on>
+            <sys_id>ab812ab687f2cd50f34f8516dabb35c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NPI Information" display_value="NPI Information" name="x_snc_insurance_0_policy_renewal" sys_domain="global" view="57812ab687f2cd50f34f8516dabb3536">97812ab687f2cd50f34f8516dabb35c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-15 13:24:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>NPI Information</caption>
+            <header>false</header>
+            <name>x_snc_insurance_0_policy_renewal</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-15 13:24:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97812ab687f2cd50f34f8516dabb35c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_insurance_0_policy_renewal</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Insurance Policy Management" source="x_snc_insurance_0">7d05c0fa87f28d50f34f8516dabb3502</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Insurance Policy Management">7d05c0fa87f28d50f34f8516dabb3502</sys_scope>
+            <sys_update_name>sys_ui_section_97812ab687f2cd50f34f8516dabb35c4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-15 13:24:52</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="npi" name="npi">57812ab687f2cd50f34f8516dabb3536</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

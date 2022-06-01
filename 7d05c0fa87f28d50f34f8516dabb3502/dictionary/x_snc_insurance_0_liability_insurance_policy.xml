@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sn_bom_ins_policy" label="Liability Insurance Policy" max_length="40" name="x_snc_insurance_0_liability_insurance_policy" sizeclass="2" type="collection"/>
+</database>

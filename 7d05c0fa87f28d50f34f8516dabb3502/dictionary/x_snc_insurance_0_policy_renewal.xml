@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Policy Renewal" max_length="40" name="x_snc_insurance_0_policy_renewal" sizeclass="9" type="collection">
+        <element label="Address" max_length="100" name="address" type="string"/>
+        <element label="City" max_length="100" name="city" type="string"/>
+        <element label="Contact" max_length="32" name="contact" reference="customer_contact" type="reference"/>
+        <element label="Has any accredidation program been revoked?" max_length="40" name="has_any_accredidation_program_been_revoked" type="boolean"/>
+        <element label="Has there been a change in facility ownership?" max_length="40" name="has_there_been_a_change_in_facility_ownership" type="boolean"/>
+        <element label="Has the facility license been revoked" max_length="40" name="has_the_facility_license_been_revoked" type="boolean"/>
+        <element label="Hospital Fiscal Year Begins" max_length="40" name="hospital_fiscal_year_begins" type="string"/>
+        <element label="Liability Insurance Policy" max_length="32" name="liability_insurance_policy" reference="x_snc_insurance_0_liability_insurance_policy" type="reference"/>
+        <element label="Organization Name" max_length="100" name="organization_name" type="string"/>
+        <element label="Provide details of any startup service" max_length="100" name="provide_details_of_any_startup_service" type="string"/>
+        <element label="State/Province" max_length="40" name="state_province" type="string"/>
+        <element label="Website Address" max_length="40" name="website_address" type="string"/>
+        <element label="Zip Code" max_length="40" name="zip_code" type="string"/>
+    </element>
+</database>

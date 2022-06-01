@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="parent_sold_product" label="Parent policy" language="en" table="x_snc_insurance_0_liability_insurance_policy">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>parent_sold_product</element>
+            <help/>
+            <hint/>
+            <label>Parent policy</label>
+            <language>en</language>
+            <name>x_snc_insurance_0_liability_insurance_policy</name>
+            <plural>Parent policies</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-15 03:49:48</sys_created_on>
+            <sys_id>2bed18f287b68d50f34f8516dabb35f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Parent policy</sys_name>
+            <sys_package display_value="Insurance Policy Management" source="x_snc_insurance_0">7d05c0fa87f28d50f34f8516dabb3502</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Insurance Policy Management">7d05c0fa87f28d50f34f8516dabb3502</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_insurance_0_liability_insurance_policy_parent_sold_product_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-15 03:49:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

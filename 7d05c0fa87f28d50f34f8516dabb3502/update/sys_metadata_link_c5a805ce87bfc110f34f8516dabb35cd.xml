@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>1e38ce3a8732cd50f34f8516dabb3513</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_insurance_0_claims">
+    <x_snc_insurance_0_claims action="INSERT_OR_UPDATE">
+        <attorney>Devshare</attorney>
+        <attorney_email>gblundel2m@dmoz.org</attorney_email>
+        <citation_number>99419971</citation_number>
+        <claim_id>95</claim_id>
+        <claim_number>8956020132</claim_number>
+        <claimant_email>gblundel2m@umich.edu</claimant_email>
+        <claimant_first_name>Gerome</claimant_first_name>
+        <claimant_last_name>Blundel</claimant_last_name>
+        <description>Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.</description>
+        <number>CLA0001095</number>
+        <number_2>CLA0001207</number_2>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-15 11:34:12</sys_created_on>
+        <sys_id>1e38ce3a8732cd50f34f8516dabb3513</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-15 11:34:12</sys_updated_on>
+    </x_snc_insurance_0_claims>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 16:03:45</sys_created_on>
+        <sys_id>c5a805ce87bfc110f34f8516dabb35cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CLA0001095</sys_name>
+        <sys_package display_value="Insurance Policy Management" source="x_snc_insurance_0">7d05c0fa87f28d50f34f8516dabb3502</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Insurance Policy Management">7d05c0fa87f28d50f34f8516dabb3502</sys_scope>
+        <sys_update_name>sys_metadata_link_c5a805ce87bfc110f34f8516dabb35cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 16:03:45</sys_updated_on>
+        <tablename>x_snc_insurance_0_claims</tablename>
+    </sys_metadata_link>
+</record_update>
